@@ -1,0 +1,26 @@
+MVC- Model, View, Controller
+Model (ORM)-
+View- html code.
+Controller- HomeController-create,update,all,show
+Migrations
+
+Query- db-mekmeal
+table-users
+$q="select \* from users";
+Model-User
+return User::all();
+.env
+
+routes
+39MB
+561KB
+
+Package folders
+Laravel, Symfony-vendor
+To install or update package
+Cmd, composer require
+
+Nodejs- node_modules
+To install or update package
+Cmd, npm i
+Cmd, yarn
